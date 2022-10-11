@@ -1,5 +1,4 @@
 import Homepage from './pages/Homepage';
-import './App.css';
 import './styles/style.css'
 
 
